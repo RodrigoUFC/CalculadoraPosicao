@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547238207 source:c:\users\user\desktop\teste\calculadorposicao\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+	<bitset>
+
